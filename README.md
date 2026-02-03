@@ -6,4 +6,6 @@
 4. Memory
 5. Indexes
 6. Agents
+  By using langchain framework we built final project
+
    
